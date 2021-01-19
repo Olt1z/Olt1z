@@ -1,6 +1,5 @@
 ### Oltiz ;0
 
->  **Brasileiro**
->  Java Script
->  Node JS
+>  JavaScript
+>  NodeJS
 
